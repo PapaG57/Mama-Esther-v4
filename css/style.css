@@ -163,7 +163,8 @@ label {
 
 /* line 76, index.html */
 .titre-logo {
-border-radius: 20px;
+  width: 300px;
+  border-radius: 20px;
 }
 
 /* line 74, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
