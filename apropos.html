@@ -229,61 +229,6 @@
     </div>
     <!-- latest_activites_area_end  -->
 
-    <!-- counter_area_start  -->
-    <!-- <div class="counter_area pt-120">
-        <div class="container">
-            <div class="counter_bg overlay">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single_counter d-flex align-items-center justify-content-center">
-                            <div class="icon">
-                                <i class="flaticon-calendar"></i>
-                            </div>
-                            <div class="events">
-                                <h3 class="counter">120</h3>
-                                <p>Finished Event</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single_counter d-flex align-items-center justify-content-center">
-                            <div class="icon">
-                                <i class="flaticon-heart-beat"></i>
-                            </div>
-                            <div class="events">
-                                <h3 class="counter">120</h3>
-                                <p>Finished Event</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single_counter d-flex align-items-center justify-content-center">
-                            <div class="icon">
-                                <i class="flaticon-in-love"></i>
-                            </div>
-                            <div class="events">
-                                <h3 class="counter">120</h3>
-                                <p>Finished Event</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single_counter d-flex align-items-center justify-content-center">
-                            <div class="icon">
-                                <i class="flaticon-hug"></i>
-                            </div>
-                            <div class="events">
-                                <h3 class="counter">120</h3>
-                                <p>Finished Event</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- counter_area_end  -->
-
     <!-- our_volunteer_area_start  -->
     <div class="our_volunteer_area section_padding">
         <div class="container">
@@ -387,7 +332,6 @@
     </div>
     <!-- our_volunteer_area_end  -->
 
-
     <div data-scroll-index='1' class="make_donation_area section_padding">
         <div class="container">
             <div class="row justify-content-center">
@@ -404,34 +348,40 @@
                             <div class="col-md-4">
                                 <div class="single_amount">
                                     <div class="input_field">
-                                        <div class="input-group">
-                                            <div class="input-group-prepend">
-                                                <span class="input-group-text" id="basic-addon1">$</span>
+                                        <fieldset>
+                                            <legend class="text-secondary text-center">Dons reçus</legend>
+                                            <div class="input-group">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" id="basic-addon1">€</span>
+                                                </div>
+                                                <input type="text" class="form-control" placeholder="5000" aria-label="Username" aria-describedby="basic-addon1">
                                             </div>
-                                            <input type="text" class="form-control" placeholder="40,200" aria-label="Username" aria-describedby="basic-addon1">
-                                        </div>
+                                        </fieldset>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-8">
                                 <div class="single_amount">
-                                    <div class="fixed_donat d-flex align-items-center justify-content-between">
-                                        <div class="select_prise">
-                                            <h4>Choisissez le montant:</h4>
+                                    <fieldset>
+                                        <legend class="text-secondary text-center">Choisissez le montant</legend>
+                                        <div class="fixed_donat d-flex align-items-center justify-content-between">
+                                            <div class="select_prise">
+                                                <h4>Don de :</h4>
+                                            </div>
+                                            <div class="single_doonate"> 
+                                                <input type="radio" id="blns_1" name="radio-group" checked>
+                                                <label for="blns_1">10</label>
+                                            </div>
+                                            <div class="single_doonate"> 
+                                                <input type="radio" id="blns_2" name="radio-group" checked>
+                                                <label for="blns_2">30</label>
+                                            </div>
+                                            <div class="single_doonate"> 
+                                                <input type="radio" id="Other" name="radio-group" checked>
+                                                <label for="Other">Autre</label>
+                                            </div>
                                         </div>
-                                        <div class="single_doonate"> 
-                                            <input type="radio" id="blns_1" name="radio-group" checked>
-                                            <label for="blns_1">10</label>
-                                        </div>
-                                        <div class="single_doonate"> 
-                                            <input type="radio" id="blns_2" name="radio-group" checked>
-                                            <label for="blns_2">30</label>
-                                        </div>
-                                        <div class="single_doonate"> 
-                                            <input type="radio" id="Other" name="radio-group" checked>
-                                            <label for="Other">Autre</label>
-                                        </div>
-                                    </div>
+                                    </fieldset>
                                 </div>
                             </div>
                         </div>
@@ -444,6 +394,9 @@
                         <a href="#" class="boxed-btn4">Faire un don</a>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
 
             </div>
         </div>
@@ -461,33 +414,34 @@
                                     <img src="img/footer_logo.png" alt="logo de l'association avec texte autour du logo">
                                 </a>
                             </div>
-                            <p class="address_text">L'amour d'une mère <br> au service des enfants<br> et de tous ceux qui en ont besoin.
+                            <p class="address_text">L'amour d'une mère <br> au service des enfants<br> et de tous ceux qui sont dans le besoin.
                             </p>
                             <div class="socail_links">
+                                <p>Suivez-nous</p>
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <i class="ti-facebook"></i>
+                                            <i class="ti-facebook fa-2x"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="ti-linkedin"></i>
+                                            <i class="ti-linkedin fa-2x"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-youtube-play"></i>
+                                            <i class="fa fa-youtube-play fa-2x"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-whatsapp"></i>
+                                            <i class="fa fa-whatsapp fa-2x"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-instagram"></i>
+                                            <i class="fa fa-instagram fa-2x"></i>
                                         </a>
                                     </li>
                                 </ul>
@@ -495,72 +449,37 @@
 
                         </div>
                     </div>
-                    <div class="col-xl-2 col-md-6 col-lg-2">
+                    <div class="col-xl-4 col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title">
                                 Services
                             </h3>
                             <ul class="links">
-                                <li><a href="#">Donate</a></li>
+                                <li><a href="#">Dons</a></li>
                                 <li><a href="#">Sponsor</a></li>
-                                <li><a href="#">Fundraise</a></li>
-                                <li><a href="#">Volunteer</a></li>
-                                <li><a href="#">Partner</a></li>
-                                <li><a href="#">Jobs</a></li>
+                                <li><a href="#">Collecte de fonds</a></li>
+                                <li><a href="#">Volontariat</a></li>
+                                <li><a href="#">Parteraires</a></li>
+                                <li><a href="#">Emploi</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6 col-lg-3">
+                    <div class="col-xl-4 col-md-6 col-lg-3">
                         <div class="footer_widget">
                             <h3 class="footer_title">
                                 Contacts
                             </h3>
                             <div class="contacts">
-                                <p>+2(305) 587-3407 <br>
-                                    info@loveuscharity.com <br>
-                                    Flat 20, Reynolds Neck, North
-                                    Helenaville, FV77 8WS
+                                <p>+33 6 86 74 29 11 <br>
+                                    florentgerard@fgdeveloppement.com <br>
+                                    1, Rue des Troènes
+                                    57700 HAYANGE St-NICOLAS EN FORÊT <br>
+                                    FRANCE
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6 col-lg-3">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Top News
-                            </h3>
-                            <ul class="news_links">
-                                <li>
-                                    <div class="thumb">
-                                        <a href="#">
-                                            <img src="img/news/news_1.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="info">
-                                        <a href="#">
-                                            <h4>School for African 
-                                                Childrens</h4>
-                                        </a>
-                                        <span>Jun 12, 2019</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="thumb">
-                                        <a href="#">
-                                            <img src="img/news/news_2.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="info">
-                                        <a href="#">
-                                            <h4>School for African 
-                                                Childrens</h4>
-                                        </a>
-                                        <span>Jun 12, 2019</span>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -571,8 +490,8 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> | Site adapté par la société FG Développement <a href="https://www.fgdeveloppement.com/" target="_blank"><img src="img/footer-logo2.png" alt="logo de la société FG Développement" title="Visitez le site" ></a>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </p>
                     </div>
                 </div>
