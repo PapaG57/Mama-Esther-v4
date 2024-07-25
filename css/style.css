@@ -3362,6 +3362,10 @@ h3 {
   }
 }
 
+.content-volonteer{
+  row-gap: 10px;
+}
+
 /* line 10, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_voolenteer.scss */
 .our_volunteer_area .single_volenteer .volenteer_thumb {
   padding-right: 70px;
@@ -3395,7 +3399,7 @@ h3 {
 
 /* line 31, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_voolenteer.scss */
 .our_volunteer_area .single_volenteer .voolenteer_info .info_inner {
-  padding: 20px 40px;
+  padding: 5px 20px;
   position: relative;
   z-index: 100;
 }
