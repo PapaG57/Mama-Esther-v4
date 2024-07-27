@@ -438,6 +438,11 @@ h3 {
   padding-bottom: 120px;
 }
 
+.section_padding_2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
 @media (max-width: 767px) {
   /* line 298, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
   .section_padding {
@@ -1611,6 +1616,13 @@ h3 {
   .offers_area .single_offers {
     margin-bottom: 30px;
   }
+}
+
+.thumbnail img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: solid 2px #3CC78F;
 }
 
 /* line 22, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_offers.scss */
