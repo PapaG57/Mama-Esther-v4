@@ -2564,6 +2564,11 @@ h3 {
   background-image: url(../img/banner/bradcam3.png);
 }
 
+.breadcam_bg_3 {
+  background-image: url(../img/banner/bradcam4.png);
+}
+
+
 /* line 10, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
 .bradcam_area {
   background-size: cover;
@@ -3827,6 +3832,12 @@ h3 {
 /* line 133, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_contact.scss */
 .contact-section {
   padding: 130px 0 100px;
+}
+
+.iframe {
+  width: 1000px;
+  height: 500px;
+  background: #d6d6d6;
 }
 
 @media (max-width: 991px) {
