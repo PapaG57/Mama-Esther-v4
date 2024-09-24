@@ -1535,6 +1535,24 @@ h3 {
   line-height: 1.14;
 }
 
+.text-bibli {
+  position: absolute;
+  right: 200px;
+  top: 500px;
+  width: 350px;
+  height: 150px;
+  padding: 20px;
+  border-radius: 15px;
+  color: #ffffff;
+  background-color: #3CC78F;
+  /* background-color: transparent; */
+  backdrop-filter: blur(50px);
+}
+
+.verset-bibli {
+  color: #000000;
+}
+
 @media (max-width: 767px) {
   /* line 28, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
   .slider_area .single_slider .slider_text h3 {
