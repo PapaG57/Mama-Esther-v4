@@ -4,5 +4,6 @@
   "editor.formatOnSave": true,
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "html.autoClosingTags": true
+  "html.autoClosingTags": true,
+  "editor.fontSize": 17
 }
