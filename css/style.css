@@ -2638,6 +2638,12 @@ h3 {
   background-image: url(../img/banner/bradcam.png);
 }
 
+/* background image page DON */
+
+.breadcam_bg-bis {
+  background-image: url(../img/banner/don.png);
+}
+
 /* line 4, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
 .breadcam_bg_1 {
   background-image: url(../img/banner/bradcam2.png);
