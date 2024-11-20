@@ -2658,6 +2658,14 @@ h3 {
   background-image: url(../img/banner/bradcam4.png);
 }
 
+.breadcam_bg_4 {
+  background-image: url(../img/banner/apropos2.png);
+}
+
+.breadcam_bg_5 {
+  background-image: url(../img/banner/contact.png);
+}
+
 /* line 10, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
 .bradcam_area {
   background-size: cover;
