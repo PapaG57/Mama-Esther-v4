@@ -1,5 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800|Yeseva+One&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800|Yeseva+One&display=swap');
+@font-face {
+  font-family: 'Bahnschrift';
+  src: url('/fonts/BAHNSCHRIFT.TTF');
+}
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_extend.scss */
 .flex-center-start {
   display: -webkit-box;
@@ -100,7 +102,7 @@
 
 /* line 6, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
 body {
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift Light', cursive;
   font-weight: normal;
   font-style: normal;
 }
@@ -157,7 +159,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift Light', cursive;
   color: #191d34;
 }
 
@@ -189,7 +191,7 @@ p {
   line-height: 1.88;
   color: #5c5c5c;
   margin-bottom: 0px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift Light', sans-serif;
 }
 
 .p-don {
