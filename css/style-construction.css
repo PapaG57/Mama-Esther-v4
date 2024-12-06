@@ -19,18 +19,17 @@ body {
 .content {
   position: absolute;
   top: 20%;
-  left: 23%;
+  left: 26%;
   text-align: center;
-  color: #ffffff;
-  letter-spacing: 8px;
   padding: 20px;
-  border-radius: 10px;
 }
 
 .content h1 {
-  font-family: 'Bahnschrift Light', Arial, Helvetica, sans-serif;
+  font-family: 'Bahnschrift', Arial, Helvetica, sans-serif;
   font-size: 6.5rem;
   font-weight: 900;
+  font-stretch: condensed;
+  letter-spacing: 15px;
   color: #ffffff;
 }
 
@@ -45,7 +44,7 @@ body {
 .progress-container {
   position: absolute;
   top: 47%;
-  left: 41%;
+  left: 39%;
   width: 350px;
   background-color: #ffffff;
   padding: 3px;
@@ -77,21 +76,30 @@ body {
   right: 0;
 }
 
-.button {
+.bouton {
   position: absolute;
   top: 60%;
-  left: 47%;
-  font-family: 'Bahnschrift Light', Arial, Helvetica, sans-serif;
+  left: 45%;
+  font-family: 'Bahnschrift', Arial, Helvetica, sans-serif;
   font-weight: 900;
   background-color: #3cc78f;
   border-radius: 10px;
   color: #ffffff !important;
+  box-shadow: 0 10px 20px #ffffff, 0 6px 6px #ffffff;
   padding: 15px;
   text-transform: uppercase;
 }
 
+.bouton:hover {
+  color: #3cc78f !important;
+  background-color: #ffffff;
+  box-shadow: 0 10px 20px #3cc78f, 0 6px 6px #3cc78f;
+}
+
 footer {
   position: absolute;
-  top: 80%;
+  top: 85%;
   left: 20%;
+  background-color: #3cc78f;
+  border-radius: 10px;
 }

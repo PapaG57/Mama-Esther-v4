@@ -159,7 +159,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Bahnschrift Light', cursive;
+  font-family: 'Bahnschrift', cursive;
   color: #191d34;
 }
 
@@ -533,7 +533,7 @@ h3 {
   color: #3cc78f !important;
   display: inline-block;
   padding: 15px 30px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   font-size: 16px;
   font-weight: 400;
   border: 1px solid #3cc78f;
@@ -581,7 +581,7 @@ h3 {
   -o-transition: 0.5s;
   transition: 0.5s;
   background: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   cursor: pointer;
 }
 
@@ -619,7 +619,7 @@ h3 {
   -o-transition: 0.5s;
   transition: 0.5s;
   background: #3cc78f;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   cursor: pointer;
   border: 1px solid transparent;
 }
@@ -647,7 +647,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 17px 44px;
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift', cursive;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 4px;
@@ -680,7 +680,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 17px 44px;
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift', cursive;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 4px;
@@ -712,7 +712,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 17px 32px;
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift', cursive;
   font-size: 16px;
   font-weight: 400;
   border: 0;
@@ -752,7 +752,7 @@ h3 {
   color: #5db2ff !important;
   display: inline-block;
   padding: 9px 24px;
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift', cursive;
   font-size: 15px;
   font-weight: 400;
   border: 0;
@@ -792,7 +792,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 18px 24px;
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift', cursive;
   font-size: 14px;
   font-weight: 400;
   border: 0;
@@ -905,7 +905,7 @@ h3 {
   font-weight: 400;
   color: #191d34;
   z-index: 1;
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift', cursive;
   line-height: 1.3;
 }
 
@@ -1268,7 +1268,7 @@ h3 {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -1332,7 +1332,7 @@ h3 {
   font-weight: 600;
   display: inline-block;
   padding: 0px 0px 0px 0px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   position: relative;
   text-transform: capitalize;
 }
@@ -1534,7 +1534,7 @@ h3 {
   font-size: 16px;
   color: #222222;
   margin-right: 40px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 @media (max-width: 767px) {
@@ -1589,14 +1589,14 @@ h3 {
   font-size: 26px;
   color: #fff;
   font-weight: 600;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   display: block;
 }
 
 /* line 28, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
   color: #fff;
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift', cursive;
   font-size: 84px;
   margin-top: 6px;
   margin-bottom: 9px;
@@ -2268,7 +2268,7 @@ h3 {
 
 /* line 397, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_offers.scss */
 .gj-picker-md {
-  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Bahnschrift', 'Helvetica', 'Arial', sans-serif;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.04em;
@@ -2336,7 +2336,7 @@ h3 {
   color: #7a7b7c;
   font-size: 16px;
   line-height: 40px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 /* line 40, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
@@ -2346,7 +2346,7 @@ h3 {
   color: #191d34;
   text-transform: capitalize;
   margin-bottom: 38px;
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift', cursive;
   position: relative;
   margin-bottom: 15px;
   padding-bottom: 28px;
@@ -2398,14 +2398,14 @@ h3 {
 .footer .footer_top .footer_widget .news_links li .info h4 {
   font-size: 16px;
   font-weight: 400;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   color: #481d1d;
   margin-bottom: 10px;
 }
 
 /* line 83, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget .news_links li .info span {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   color: #7a7b7c;
   font-weight: 400;
   font-size: 12px;
@@ -2481,7 +2481,7 @@ h3 {
 .footer .footer_top .footer_widget ul li a {
   color: #7a7b7c;
   font-weight: 400;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 /* line 148, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
@@ -2506,7 +2506,7 @@ h3 {
   border: none;
   border: 1px solid #e8e8e8;
   border-radius: 30px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   padding-right: 120px;
 }
 
@@ -2539,7 +2539,7 @@ h3 {
   right: 5px;
   font-size: 14px;
   font-weight: 500;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 /* line 197, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
@@ -2547,7 +2547,7 @@ h3 {
   font-size: 14px;
   color: #aab1b7;
   line-height: 26px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 /* line 203, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
@@ -2799,7 +2799,7 @@ h3 {
   cursor: pointer;
   display: block;
   float: left;
-  font-family: 'Yeseva One', cursive;
+  font-family: 'Bahnschrift', cursive;
   font-weight: normal;
   width: 100% !important;
   /* height: 42px; */
@@ -3292,7 +3292,7 @@ h3 {
   font-size: 18px;
   color: #222222;
   font-weight: 600;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 /* line 67, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_causes.scss */
@@ -3427,7 +3427,7 @@ h3 {
   font-size: 14px;
   color: #222222;
   font-weight: 600;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 /* line 149, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_causes.scss */
@@ -3659,7 +3659,7 @@ h3 {
   font-size: 14px;
   font-weight: 600;
   color: #222222;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 /* line 28, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_news.scss */
@@ -3757,7 +3757,7 @@ h3 {
   font-size: 16px;
   background: transparent;
   border: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   font-weight: 400;
 }
 
@@ -3770,7 +3770,7 @@ h3 {
   border-right: 0;
   padding: 0 0 0 25px;
   height: 50px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   font-size: 16px;
   color: #000;
 }
@@ -3783,7 +3783,7 @@ h3 {
   .form-control::placeholder {
   font-size: 16px;
   color: #7a7b7c;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   font-weight: 400;
 }
 
@@ -3825,7 +3825,7 @@ h3 {
   .select_prise
   h4 {
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   color: #7a7b7c;
   margin-bottom: 0;
 }
@@ -3837,7 +3837,7 @@ h3 {
   .fixed_donat
   .single_doonate
   label {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #7a7b7c;
