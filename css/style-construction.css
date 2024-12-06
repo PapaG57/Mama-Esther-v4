@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+.background {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  background-image: url('/img/volenteer/enfants-afrique-blog.jpg');
+  background-size: cover;
+  background-position: center;
+  filter: blur(40px);
+  z-index: -1;
+}
+.content {
+  position: absolute;
+  top: 20%;
+  left: 23%;
+  text-align: center;
+  color: #ffffff;
+  letter-spacing: 8px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.content h1 {
+  font-family: 'Bahnschrift Light', Arial, Helvetica, sans-serif;
+  font-size: 6.5rem;
+  font-weight: 900;
+}
+
+.content p {
+  font-family: 'Bahnschrift Light', Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.progress-container {
+  position: absolute;
+  top: 47%;
+  left: 41%;
+  width: 350px;
+  background-color: #ffffff;
+  padding: 3px;
+}
+
+.progress-bar {
+  width: 230px;
+  height: 10px;
+  background-color: #3cc78f;
+}
+
+.graduation {
+  position: absolute;
+  top: 25px;
+  color: #ffffff;
+  font-size: 12px;
+}
+
+.graduation-0 {
+  left: 0;
+}
+
+.graduation-70 {
+  left: 67%;
+  transform: translateX(-50%);
+}
+
+.graduation-100 {
+  right: 0;
+}
+
+.button {
+  position: absolute;
+  top: 60%;
+  left: 47%;
+  background-color: #3cc78f;
+  color: #ffffff;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+footer {
+  position: absolute;
+  top: 80%;
+  left: 20%;
+  color: #ffffff;
+}
