@@ -78,7 +78,7 @@ body {
 
 .bouton {
   position: absolute;
-  top: 60%;
+  top: 65%;
   left: 45%;
   font-family: 'Bahnschrift', Arial, Helvetica, sans-serif;
   font-weight: 900;
@@ -96,10 +96,17 @@ body {
   box-shadow: 0 10px 20px #3cc78f, 0 6px 6px #3cc78f;
 }
 
-footer {
+.foot {
   position: absolute;
   top: 85%;
-  left: 20%;
-  background-color: #3cc78f;
-  border-radius: 10px;
+  left: 22%;
+}
+
+.p-foot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 900;
 }
