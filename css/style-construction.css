@@ -95,6 +95,7 @@ body {
   padding: 15px;
   text-transform: uppercase;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .bouton:hover {
