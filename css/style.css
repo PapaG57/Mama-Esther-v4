@@ -194,6 +194,12 @@ p {
   font-family: 'Bahnschrift Light', sans-serif;
 }
 
+.mailto {
+  font-weight: 900 !important;
+  color: #009dff !important;
+  cursor: pointer !important;
+}
+
 .p-don {
   font-size: 20px;
 }
