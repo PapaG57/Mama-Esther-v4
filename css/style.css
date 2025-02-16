@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'Bahnschrift';
-  src: url('/fonts/BAHNSCHRIFT.TTF');
+  font-family: "Bahnschrift";
+  src: url("/fonts/BAHNSCHRIFT.TTF");
 }
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_extend.scss */
 .flex-center-start {
@@ -102,7 +102,7 @@
 
 /* line 6, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
 body {
-  font-family: 'Bahnschrift Light', cursive;
+  font-family: "Bahnschrift Light", cursive;
   font-weight: normal;
   font-style: normal;
 }
@@ -159,7 +159,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   color: #191d34;
 }
 
@@ -191,7 +191,7 @@ p {
   line-height: 1.88;
   color: #5c5c5c;
   margin-bottom: 0px;
-  font-family: 'Bahnschrift Light', sans-serif;
+  font-family: "Bahnschrift Light", sans-serif;
 }
 
 .mailto {
@@ -321,7 +321,7 @@ h3 {
 /* line 145, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
 .overlay::before {
   position: absolute;
-  content: '';
+  content: "";
   top: 0;
   left: 0;
   width: 100%;
@@ -338,7 +338,7 @@ h3 {
 /* line 160, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
 .overlay2::before {
   position: absolute;
-  content: '';
+  content: "";
   background-color: #3cc78f;
   top: 0;
   left: 0;
@@ -357,7 +357,7 @@ h3 {
 /* line 176, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
 .overlay_skyblue::before {
   position: absolute;
-  content: '';
+  content: "";
   background-color: #5db2ff;
   top: 0;
   left: 0;
@@ -376,7 +376,7 @@ h3 {
 /* line 193, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
 .bradcam_overlay::before {
   position: absolute;
-  content: '';
+  content: "";
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#5db2ff+0,7db9e8+100&1+24,0+96 */
   background: -moz-linear-gradient(
     left,
@@ -544,7 +544,7 @@ h3 {
   color: #3cc78f !important;
   display: inline-block;
   padding: 15px 30px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   font-size: 16px;
   font-weight: 400;
   border: 1px solid #3cc78f;
@@ -592,7 +592,7 @@ h3 {
   -o-transition: 0.5s;
   transition: 0.5s;
   background: #fff;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   cursor: pointer;
 }
 
@@ -630,7 +630,7 @@ h3 {
   -o-transition: 0.5s;
   transition: 0.5s;
   background: #3cc78f;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   cursor: pointer;
   border: 1px solid transparent;
 }
@@ -658,7 +658,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 17px 44px;
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 4px;
@@ -691,7 +691,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 17px 44px;
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 4px;
@@ -723,7 +723,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 17px 32px;
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   font-size: 16px;
   font-weight: 400;
   border: 0;
@@ -763,7 +763,7 @@ h3 {
   color: #5db2ff !important;
   display: inline-block;
   padding: 9px 24px;
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   font-size: 15px;
   font-weight: 400;
   border: 0;
@@ -803,7 +803,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 18px 24px;
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   font-size: 14px;
   font-weight: 400;
   border: 0;
@@ -837,7 +837,7 @@ h3 {
 /* line 213, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_btn.scss */
 .line-button::before {
   position: absolute;
-  content: '';
+  content: "";
   background: #919191;
   width: 100%;
   height: 1px;
@@ -889,7 +889,7 @@ h3 {
   width: 36px;
   height: 2px;
   background: #707070;
-  content: '';
+  content: "";
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -916,7 +916,7 @@ h3 {
   font-weight: 400;
   color: #191d34;
   z-index: 1;
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   line-height: 1.3;
 }
 
@@ -935,7 +935,7 @@ h3 {
   background: #3cc78f;
   height: 10px;
   width: 100%;
-  content: '';
+  content: "";
   opacity: 0.5;
   bottom: 7px;
   z-index: -1;
@@ -1279,7 +1279,7 @@ h3 {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -1343,7 +1343,7 @@ h3 {
   font-weight: 600;
   display: inline-block;
   padding: 0px 0px 0px 0px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   position: relative;
   text-transform: capitalize;
 }
@@ -1545,7 +1545,7 @@ h3 {
   font-size: 16px;
   color: #222222;
   margin-right: 40px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
 }
 
 @media (max-width: 767px) {
@@ -1600,14 +1600,14 @@ h3 {
   font-size: 26px;
   color: #fff;
   font-weight: 600;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   display: block;
 }
 
 /* line 28, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
   color: #fff;
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   font-size: 84px;
   margin-top: 6px;
   margin-bottom: 9px;
@@ -1781,7 +1781,7 @@ h3 {
 /* line 54, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_offers.scss */
 .offers_area .single_offers ul li::before {
   position: absolute;
-  content: '';
+  content: "";
   width: 8px;
   height: 8px;
   background: #4d4d4d;
@@ -1921,7 +1921,7 @@ h3 {
   top: 0;
   width: 100%;
   height: 100%;
-  content: '';
+  content: "";
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,000000+100 */
   background: #ffffff;
   /* Old browsers */
@@ -2267,7 +2267,7 @@ h3 {
 }
 
 /* line 388, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_offers.scss */
-.gj-datepicker-md [role='right-icon'] {
+.gj-datepicker-md [role="right-icon"] {
   position: absolute;
   right: 0px;
   top: 0px;
@@ -2279,7 +2279,7 @@ h3 {
 
 /* line 397, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_offers.scss */
 .gj-picker-md {
-  font-family: 'Bahnschrift', 'Helvetica', 'Arial', sans-serif;
+  font-family: "Bahnschrift", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.04em;
@@ -2347,7 +2347,7 @@ h3 {
   color: #7a7b7c;
   font-size: 16px;
   line-height: 40px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
 }
 
 /* line 40, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
@@ -2357,7 +2357,7 @@ h3 {
   color: #191d34;
   text-transform: capitalize;
   margin-bottom: 38px;
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   position: relative;
   margin-bottom: 15px;
   padding-bottom: 28px;
@@ -2409,14 +2409,14 @@ h3 {
 .footer .footer_top .footer_widget .news_links li .info h4 {
   font-size: 16px;
   font-weight: 400;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   color: #481d1d;
   margin-bottom: 10px;
 }
 
 /* line 83, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget .news_links li .info span {
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   color: #7a7b7c;
   font-weight: 400;
   font-size: 12px;
@@ -2492,7 +2492,7 @@ h3 {
 .footer .footer_top .footer_widget ul li a {
   color: #7a7b7c;
   font-weight: 400;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
 }
 
 /* line 148, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
@@ -2517,7 +2517,7 @@ h3 {
   border: none;
   border: 1px solid #e8e8e8;
   border-radius: 30px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   padding-right: 120px;
 }
 
@@ -2550,7 +2550,7 @@ h3 {
   right: 5px;
   font-size: 14px;
   font-weight: 500;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
 }
 
 /* line 197, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
@@ -2558,7 +2558,7 @@ h3 {
   font-size: 14px;
   color: #aab1b7;
   line-height: 26px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
 }
 
 /* line 203, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_footer.scss */
@@ -2677,6 +2677,9 @@ h3 {
 
 .breadcam_bg_5 {
   background-image: url(../img/banner/contact.png);
+}
+.breadcam_bg_6 {
+  background-image: url(../img/banner/mentions-legales.jpg);
 }
 
 /* line 10, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
@@ -2810,7 +2813,7 @@ h3 {
   cursor: pointer;
   display: block;
   float: left;
-  font-family: 'Bahnschrift', cursive;
+  font-family: "Bahnschrift", cursive;
   font-weight: normal;
   width: 100% !important;
   /* height: 42px; */
@@ -2840,7 +2843,7 @@ h3 {
 
 /* line 126, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
 .popup_box .nice-select::after {
-  content: '\e64b';
+  content: "\e64b";
   display: block;
   height: 5px;
   margin-top: -5px;
@@ -2850,7 +2853,7 @@ h3 {
   top: 3px;
   transition: all 0.15s ease-in-out;
   width: 5px;
-  font-family: 'themify';
+  font-family: "themify";
   color: #939393;
   font-size: 16px;
   right: 40px;
@@ -2918,8 +2921,8 @@ h3 {
 }
 
 /* line 190, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
-.gj-picker-md div[role='navigator'] div:first-child,
-.gj-picker-md div[role='navigator'] div:last-child {
+.gj-picker-md div[role="navigator"] div:first-child,
+.gj-picker-md div[role="navigator"] div:last-child {
   width: 42px;
   height: 42px;
   text-align: center;
@@ -2932,8 +2935,8 @@ h3 {
 }
 
 /* line 198, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
-.gj-picker-md div[role='navigator'] div:first-child i,
-.gj-picker-md div[role='navigator'] div:last-child i {
+.gj-picker-md div[role="navigator"] div:first-child i,
+.gj-picker-md div[role="navigator"] div:last-child i {
   font-size: 16px;
   line-height: 42px;
   position: relative;
@@ -2941,8 +2944,8 @@ h3 {
 }
 
 /* line 204, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
-.gj-picker-md div[role='navigator'] div:first-child:hover,
-.gj-picker-md div[role='navigator'] div:last-child:hover {
+.gj-picker-md div[role="navigator"] div:first-child:hover,
+.gj-picker-md div[role="navigator"] div:last-child:hover {
   color: #fff;
   background: #000;
 }
@@ -2954,8 +2957,8 @@ h3 {
 }
 
 /* line 217, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
-.gj-datepicker-md [role='right-icon'],
-.gj-timepicker-md [role='right-icon'] {
+.gj-datepicker-md [role="right-icon"],
+.gj-timepicker-md [role="right-icon"] {
   position: absolute;
   right: 0px;
   top: 0px;
@@ -3066,7 +3069,7 @@ h3 {
   width: 36px;
   height: 2px;
   background: #707070;
-  content: '';
+  content: "";
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -3157,7 +3160,7 @@ h3 {
   width: 100%;
   background: #3cc78f;
   opacity: 0.3;
-  content: '';
+  content: "";
 }
 
 /* line 45, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_latest_activites.scss */
@@ -3303,7 +3306,7 @@ h3 {
   font-size: 18px;
   color: #222222;
   font-weight: 600;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
 }
 
 /* line 67, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_causes.scss */
@@ -3438,7 +3441,7 @@ h3 {
   font-size: 14px;
   color: #222222;
   font-weight: 600;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
 }
 
 /* line 149, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_causes.scss */
@@ -3670,7 +3673,7 @@ h3 {
   font-size: 14px;
   font-weight: 600;
   color: #222222;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
 }
 
 /* line 28, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_news.scss */
@@ -3690,15 +3693,15 @@ h3 {
 }
 
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_donation.scss */
-[type='radio']:checked,
-[type='radio']:not(:checked) {
+[type="radio"]:checked,
+[type="radio"]:not(:checked) {
   position: absolute;
   left: -9999px;
 }
 
 /* line 6, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_donation.scss */
-[type='radio']:checked + label,
-[type='radio']:not(:checked) + label {
+[type="radio"]:checked + label,
+[type="radio"]:not(:checked) + label {
   position: relative;
   padding-left: 20px;
   cursor: pointer;
@@ -3709,9 +3712,9 @@ h3 {
 }
 
 /* line 17, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_donation.scss */
-[type='radio']:checked + label:before,
-[type='radio']:not(:checked) + label:before {
-  content: '';
+[type="radio"]:checked + label:before,
+[type="radio"]:not(:checked) + label:before {
+  content: "";
   position: absolute;
   left: 0;
   top: 0;
@@ -3725,9 +3728,9 @@ h3 {
 }
 
 /* line 32, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_donation.scss */
-[type='radio']:checked + label:after,
-[type='radio']:not(:checked) + label:after {
-  content: '';
+[type="radio"]:checked + label:after,
+[type="radio"]:not(:checked) + label:after {
+  content: "";
   width: 8px;
   height: 8px;
   background: #3cc78f;
@@ -3740,14 +3743,14 @@ h3 {
 }
 
 /* line 45, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_donation.scss */
-[type='radio']:not(:checked) + label:after {
+[type="radio"]:not(:checked) + label:after {
   opacity: 0;
   -webkit-transform: scale(0);
   transform: scale(0);
 }
 
 /* line 50, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_donation.scss */
-[type='radio']:checked + label:after {
+[type="radio"]:checked + label:after {
   opacity: 1;
   -webkit-transform: scale(1);
 }
@@ -3768,7 +3771,7 @@ h3 {
   font-size: 16px;
   background: transparent;
   border: 0;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   font-weight: 400;
 }
 
@@ -3781,7 +3784,7 @@ h3 {
   border-right: 0;
   padding: 0 0 0 25px;
   height: 50px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   font-size: 16px;
   color: #000;
 }
@@ -3794,7 +3797,7 @@ h3 {
   .form-control::placeholder {
   font-size: 16px;
   color: #7a7b7c;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   font-weight: 400;
 }
 
@@ -3836,7 +3839,7 @@ h3 {
   .select_prise
   h4 {
   font-size: 16px;
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   color: #7a7b7c;
   margin-bottom: 0;
 }
@@ -3848,7 +3851,7 @@ h3 {
   .fixed_donat
   .single_doonate
   label {
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: "Bahnschrift", sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #7a7b7c;
@@ -4569,7 +4572,7 @@ h6 {
 
 /* line 459, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_elements.scss */
 .unordered-list li:before {
-  content: '';
+  content: "";
   position: absolute;
   width: 14px;
   height: 14px;
@@ -4818,7 +4821,7 @@ h6 {
 
 /* line 663, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_elements.scss */
 .primary-switch input + label:before {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   top: 0;
@@ -4837,7 +4840,7 @@ h6 {
 
 /* line 677, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_elements.scss */
 .primary-switch input + label:after {
-  content: '';
+  content: "";
   position: absolute;
   top: 1px;
   left: 1px;
@@ -4898,7 +4901,7 @@ h6 {
 
 /* line 728, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_elements.scss */
 .confirm-switch input + label:before {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   top: 0;
@@ -4917,7 +4920,7 @@ h6 {
 
 /* line 742, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_elements.scss */
 .confirm-switch input + label:after {
-  content: '';
+  content: "";
   position: absolute;
   top: 1px;
   left: 1px;
@@ -5408,7 +5411,7 @@ h6 {
 
 /* line 36, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
 .single-blog .thumb:after {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   top: 0;
@@ -5455,7 +5458,7 @@ h6 {
 
 /* line 84, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
 .single-blog .tag:after {
-  content: '';
+  content: "";
   position: absolute;
   width: 1px;
   height: 10px;
@@ -5669,7 +5672,7 @@ h6 {
 
 /* line 307, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
 .causes_item .causes_img .c_parcent span:before {
-  content: '75%';
+  content: "75%";
   position: absolute;
   right: -10px;
   bottom: 0px;
@@ -5930,7 +5933,7 @@ h6 {
 
 /* line 577, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
 .blog-info-link li::after {
-  content: '|';
+  content: "|";
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -5942,7 +5945,7 @@ h6 {
 
 /* line 588, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
 .blog-info-link::after {
-  content: '';
+  content: "";
   display: block;
   clear: both;
   display: table;
@@ -6012,7 +6015,7 @@ h6 {
 
 /* line 652, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
 .blog_right_sidebar .widget_title::after {
-  content: '';
+  content: "";
   display: block;
   padding-top: 15px;
   border-bottom: 1px solid #f0e9ff;
@@ -6887,7 +6890,7 @@ h6 {
 /* line 86, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog_part.scss */
 .blog_part .single-home-blog .card .dot:after {
   position: absolute;
-  content: '';
+  content: "";
   width: 10px;
   height: 10px;
   top: 5px;
