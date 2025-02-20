@@ -2682,6 +2682,10 @@ h3 {
   background-image: url(../img/banner/mentions-legales.jpg);
 }
 
+.breadcam_bg_7 {
+  background-image: url(../img/banner/partner.jpg);
+}
+
 /* line 10, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
 .bradcam_area {
   background-size: cover;
