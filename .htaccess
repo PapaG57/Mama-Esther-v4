@@ -1,1 +1,2 @@
+ErrorDocument 403 https://www.mamaesther.org/403.html
 ErrorDocument 404 https://www.mamaesther.org/404.html
