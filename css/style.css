@@ -6027,9 +6027,14 @@ h6 {
 
 /* line 660, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
 .blog_right_sidebar .single_sidebar_widget {
-  background: #fbf9ff;
+  background: #fcd116;
   padding: 30px;
   margin-bottom: 30px;
+}
+
+.pdf {
+  width: 20px;
+  height: 20px;
 }
 
 /* line 664, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
